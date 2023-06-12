@@ -3,6 +3,6 @@
 3    package="com.test" >
 4
 5    <uses-sdk android:minSdkVersion="1" />
-5-->/Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
+5-->/Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
 6
 7</manifest>

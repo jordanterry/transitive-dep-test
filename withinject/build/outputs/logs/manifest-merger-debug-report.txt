@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml:2:13-83
-INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml:2:13-83
-INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml:2:13-83
+ADDED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml:2:13-83
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml:2:13-83
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml:2:13-83
 	package
-		INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
-		ADDED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml:2:13-83
-		INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
+		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml:2:13-83
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
 	xmlns:android
-		ADDED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml:2:23-81
+		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml:2:23-81
 uses-sdk
-INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml reason: use-sdk injection requested
-INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
-INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
-INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
-INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml reason: use-sdk injection requested
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
 	android:targetSdkVersion
-		INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
-		ADDED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
-		INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
+		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
 	android:minSdkVersion
-		INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
-		ADDED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
-		INJECTED from /Users/jordanterry/AndroidStudioProjects/dependencytest/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17336442412686103791.xml
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
+		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/transitive-dep-test/withinject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11739468006877071849.xml
