@@ -1,4 +1,6 @@
 package com.example.other
 
-class A {
+import javax.inject.Inject
+
+class A @Inject constructor() {
 }
